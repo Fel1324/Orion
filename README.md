@@ -42,7 +42,7 @@ Acesse o projeto clicando [aqui](https://fel1324.github.io/Orion/).
 
 <h2 id="desc">📘 Descrição do projeto</h2>
 
-<p align="justify">A Orion consiste em um modelo de E-commerce que se estivesse atuando no mercado, seria responsável por vender produtos como: agendas, canecas, chaveiros, camisetas etc. Todos os itens da Orion teriam como decoração a logo do site.</p>
+<p align="justify">A Orion consiste em um modelo de E-commerce que se estivesse atuando no mercado, seria responsável por vender produtos como: agendas, canecas, chaveiros, camisetas etc. Todos os itens da Orion têm como decoração a logo do site.</p>
 
 <br>
 
